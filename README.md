@@ -9,7 +9,7 @@ JavaScript Clone | Movie App is a popular, latest movies and episodes.<br>
 ### 🚀 Application Features <br>
 - Search Functionality.
 - API Integration.
-<img src="https://github.com/abela12/movie-app/blob/main/assets/img/Desktop_UI.jpg">
+<img src="https://github.com/Fami2040/movie-app/blob/main/assets/img/Desktop_UI.jpg">
 
 ## 🚀 Figma UI/UX Design
 ```
@@ -19,7 +19,7 @@ https://www.figma.com/file/8nGp6NQZcxhPW0NLmBgGqp/Movie-App---AI-Programming-(Co
 ## 🚀 Install
 
 ```
-git clone https://github.com/abela12/movie-app.git
+git clone https://github.com/Fami2040/movie-app.git
 ```
 
 
